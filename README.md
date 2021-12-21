@@ -12,7 +12,7 @@
 ![](https://raw.githubusercontent.com/MiPushFramework/MiPushFramework/master/art/tab_settings.jpg)
 ![](https://raw.githubusercontent.com/MiPushFramework/MiPushFramework/master/art/tab_apps.jpg)
 
-## 什么是小米系统级推送，为什么会有这个项目
+## 什么是小米系统级推送，为什么会有这个项
 
 小米推送是小米公司提供的推送服务，许多 App 都在使用（如酷安）。
 
